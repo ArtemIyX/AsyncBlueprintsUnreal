@@ -26,3 +26,6 @@ It is very useful to return to GameThread and continue working in it.
 - It should be noted that most tasks in Unreal Engine can only be executed in Game Thread (Move, Rotate, Spawn Actor etc).
 
 ## Documentation
+Doxygen documentation: [GitHubPages](https://artemiyx.github.io/AsyncBlueprintsUnrealDoc/index.html)
+
+Documentation sources: [GitHub](https://github.com/ArtemIyX/AsyncBlueprintsUnrealDoc)
